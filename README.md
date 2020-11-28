@@ -6,7 +6,7 @@ I'm a Modern Languages graduate turned software developer. I recently graduated 
 <div align='center'>
   
 [![CV]](https://github.com/CRTW26/CV)
-[![Portfolio]](https://www.connorworthington.com)
+<!-- [![Portfolio]](http://www.connorworthington.com) -->
 [![LinkedIn]](https://www.linkedin.com/in/connor-worthington-83b350131/)
 [![Email]](mailto:worthington.connor@gmail.com)
 [![GitHub]](https://github.com/crtw26)
