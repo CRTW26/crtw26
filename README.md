@@ -13,7 +13,7 @@ I'm a Modern Languages graduate turned software developer. I recently graduated 
 
 </div>
 
-[CV]: https://img.shields.io/badge/-CV-blueviolet?style=for-the-badge&logo=linkedin
+[CV]: https://img.shields.io/badge/-CV-blueviolet?style=for-the-badge
 [linkedin]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
 [github]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
