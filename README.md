@@ -9,7 +9,6 @@ I'm a Modern Languages graduate turned software developer. I recently graduated 
 [![CV]](https://github.com/CRTW26/CV)
 [![LinkedIn]](https://www.linkedin.com/in/connor-worthington-83b350131/)
 [![Email]](mailto:worthington.connor@gmail.com)
-[![GitHub]](https://github.com/crtw26)
 
 </div>
 
