@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Modern Languages graduate turned software developer. I recently graduated from Makers Academy which introduced me to the principles of OOP and TDD and am now looking for opportunities to learn and grow as a developer.
+I'm a Modern Languages graduate turned software developer. I recently graduated from Makers Academy which introduced me to the principles of OOP and TDD and I am now looking for opportunities to learn and grow as a developer.
 
 
 <div align='center'>
