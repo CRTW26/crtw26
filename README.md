@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-While studying Modern Languages I realised there were tools that could have made mine and my fellow student’s lives easier. I wanted to learn how to build these tools and so I made the transition to becoming a developer. I am now looking for opportunities to learn and grow as a developer, working on projects that benefit people.
+While studying Modern Languages I realised there were tools that could have made mine and my fellow student’s lives easier. I wanted to learn how to build these tools and so I made the transition to becoming a developer. I'm now looking for opportunities to learn and grow as a developer, working on projects that benefit people.
 
 
 <div align='center'>
